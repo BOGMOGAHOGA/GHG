@@ -1,0 +1,1 @@
+# Project Atlas\n\nThis folder is auto-generated to describe Blueprints, C++ classes, inputs, and plugins.\n

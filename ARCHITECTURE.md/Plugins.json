@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Advanced AI Logic",
+    "File": "Plugins\\ClimbingNavigation\\ClimbingNavigation.uplugin",
+    "Modules": [
+      "ClimbingNavigation"
+    ],
+    "EnabledByDefault": false,
+    "Version": "1.0"
+  },
+  {
+    "Name": "GraphDebugger",
+    "File": "Plugins\\GraphDebbuger\\GraphDebbuger.uplugin",
+    "Modules": [
+      "GraphDebbuger"
+    ],
+    "EnabledByDefault": false,
+    "Version": "1.0"
+  },
+  {
+    "Name": "AGLS Core",
+    "File": "Plugins\\HelpfulFunctions\\HelpfulFunctions.uplugin",
+    "Modules": [
+      "HelpfulFunctions"
+    ],
+    "EnabledByDefault": false,
+    "Version": "2.0"
+  },
+  {
+    "Name": "IWALS_AbilitySystem",
+    "File": "Plugins\\IWALS_AbilitySystem\\IWALS_AbilitySystem.uplugin",
+    "Modules": [
+      "IWALS_AbilitySystem"
+    ],
+    "EnabledByDefault": false,
+    "Version": "1.0"
+  },
+  {
+    "Name": "JakubAnimNodes",
+    "File": "Plugins\\JakubAnimNodes\\JakubAnimNodes.uplugin",
+    "Modules": [
+      "JakubAnimNodesTool",
+      "JakubAnimNodes"
+    ],
+    "EnabledByDefault": false,
+    "Version": "1.0"
+  },
+  {
+    "Name": "JakubCableComponent",
+    "File": "Plugins\\JakubCableComponent\\JakubCableComponent.uplugin",
+    "Modules": [
+      "JakubCableComponent"
+    ],
+    "EnabledByDefault": false,
+    "Version": "1.0"
+  }
+]

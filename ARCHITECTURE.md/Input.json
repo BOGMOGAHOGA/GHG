@@ -1,0 +1,236 @@
+{
+  "Actions": [
+    {
+      "Action": "JumpAction",
+      "Keys": [
+        "SpaceBar"
+      ]
+    },
+    {
+      "Action": "JumpAction",
+      "Keys": [
+        "Gamepad_FaceButton_Bottom"
+      ]
+    },
+    {
+      "Action": "StanceAction",
+      "Keys": [
+        "LeftAlt"
+      ]
+    },
+    {
+      "Action": "SprintAction",
+      "Keys": [
+        "LeftShift"
+      ]
+    },
+    {
+      "Action": "StanceAction",
+      "Keys": [
+        "Gamepad_FaceButton_Right"
+      ]
+    },
+    {
+      "Action": "SprintAction",
+      "Keys": [
+        "Gamepad_LeftThumbstick"
+      ]
+    },
+    {
+      "Action": "WalkAction",
+      "Keys": [
+        "LeftControl"
+      ]
+    },
+    {
+      "Action": "WalkAction",
+      "Keys": [
+        "Gamepad_RightShoulder"
+      ]
+    },
+    {
+      "Action": "AimAction",
+      "Keys": [
+        "RightMouseButton"
+      ]
+    },
+    {
+      "Action": "AimAction",
+      "Keys": [
+        "Gamepad_LeftTrigger"
+      ]
+    },
+    {
+      "Action": "SelectRotationMode_1",
+      "Keys": [
+        "Five"
+      ]
+    },
+    {
+      "Action": "SelectRotationMode_2",
+      "Keys": [
+        "Six"
+      ]
+    },
+    {
+      "Action": "SelectRotationMode_1",
+      "Keys": [
+        "Gamepad_DPad_Left"
+      ]
+    },
+    {
+      "Action": "SelectRotationMode_2",
+      "Keys": [
+        "Gamepad_DPad_Right"
+      ]
+    },
+    {
+      "Action": "CameraAction",
+      "Keys": [
+        "C"
+      ]
+    },
+    {
+      "Action": "CameraAction",
+      "Keys": [
+        "Gamepad_RightThumbstick"
+      ]
+    },
+    {
+      "Action": "RagdollAction",
+      "Keys": [
+        "X"
+      ]
+    },
+    {
+      "Action": "RagdollAction",
+      "Keys": [
+        "Gamepad_Special_Left"
+      ]
+    },
+    {
+      "Action": "CycleOverlayUp",
+      "Keys": [
+        "MouseScrollUp"
+      ]
+    },
+    {
+      "Action": "CycleOverlayDown",
+      "Keys": [
+        "MouseScrollDown"
+      ]
+    },
+    {
+      "Action": "CycleOverlayUp",
+      "Keys": [
+        "Gamepad_DPad_Up"
+      ]
+    },
+    {
+      "Action": "CycleOverlayDown",
+      "Keys": [
+        "Gamepad_DPad_Down"
+      ]
+    },
+    {
+      "Action": "OpenOverlayMenu",
+      "Keys": [
+        "Q"
+      ]
+    },
+    {
+      "Action": "OpenOverlayMenu",
+      "Keys": [
+        "Gamepad_LeftShoulder"
+      ]
+    },
+    {
+      "Action": "Interaction",
+      "Keys": [
+        "E"
+      ]
+    },
+    {
+      "Action": "Shot",
+      "Keys": [
+        "LeftMouseButton"
+      ]
+    },
+    {
+      "Action": "Reload",
+      "Keys": [
+        "R"
+      ]
+    },
+    {
+      "Action": "PauseGame",
+      "Keys": [
+        "K"
+      ]
+    },
+    {
+      "Action": "Equip Rope",
+      "Keys": [
+        "F"
+      ]
+    },
+    {
+      "Action": "AimActionType_2",
+      "Keys": [
+        "MiddleMouseButton"
+      ]
+    }
+  ],
+  "Axes": [
+    {
+      "Axis": "MoveForward/Backwards",
+      "Key": "W",
+      "Scale": 1.0
+    },
+    {
+      "Axis": "MoveRight/Left",
+      "Key": "D",
+      "Scale": 1.0
+    },
+    {
+      "Axis": "LookUp/Down",
+      "Key": "MouseY",
+      "Scale": -1.0
+    },
+    {
+      "Axis": "LookLeft/Right",
+      "Key": "MouseX",
+      "Scale": 1.0
+    },
+    {
+      "Axis": "MoveForward/Backwards",
+      "Key": "S",
+      "Scale": -1.0
+    },
+    {
+      "Axis": "MoveRight/Left",
+      "Key": "A",
+      "Scale": -1.0
+    },
+    {
+      "Axis": "MoveForward/Backwards",
+      "Key": "Gamepad_LeftY",
+      "Scale": 1.0
+    },
+    {
+      "Axis": "MoveRight/Left",
+      "Key": "Gamepad_LeftX",
+      "Scale": 1.0
+    },
+    {
+      "Axis": "LookUp/Down",
+      "Key": "Gamepad_RightY",
+      "Scale": 1.0
+    },
+    {
+      "Axis": "LookLeft/Right",
+      "Key": "Gamepad_RightX",
+      "Scale": 1.0
+    }
+  ]
+}

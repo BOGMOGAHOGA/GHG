@@ -1,0 +1,44 @@
+# Input Mappings
+## Actions
+- **JumpAction**: SpaceBar
+- **JumpAction**: Gamepad_FaceButton_Bottom
+- **StanceAction**: LeftAlt
+- **SprintAction**: LeftShift
+- **StanceAction**: Gamepad_FaceButton_Right
+- **SprintAction**: Gamepad_LeftThumbstick
+- **WalkAction**: LeftControl
+- **WalkAction**: Gamepad_RightShoulder
+- **AimAction**: RightMouseButton
+- **AimAction**: Gamepad_LeftTrigger
+- **SelectRotationMode_1**: Five
+- **SelectRotationMode_2**: Six
+- **SelectRotationMode_1**: Gamepad_DPad_Left
+- **SelectRotationMode_2**: Gamepad_DPad_Right
+- **CameraAction**: C
+- **CameraAction**: Gamepad_RightThumbstick
+- **RagdollAction**: X
+- **RagdollAction**: Gamepad_Special_Left
+- **CycleOverlayUp**: MouseScrollUp
+- **CycleOverlayDown**: MouseScrollDown
+- **CycleOverlayUp**: Gamepad_DPad_Up
+- **CycleOverlayDown**: Gamepad_DPad_Down
+- **OpenOverlayMenu**: Q
+- **OpenOverlayMenu**: Gamepad_LeftShoulder
+- **Interaction**: E
+- **Shot**: LeftMouseButton
+- **Reload**: R
+- **PauseGame**: K
+- **Equip Rope**: F
+- **AimActionType_2**: MiddleMouseButton
+
+## Axes
+- **MoveForward/Backwards**: W × 1.0
+- **MoveRight/Left**: D × 1.0
+- **LookUp/Down**: MouseY × -1.0
+- **LookLeft/Right**: MouseX × 1.0
+- **MoveForward/Backwards**: S × -1.0
+- **MoveRight/Left**: A × -1.0
+- **MoveForward/Backwards**: Gamepad_LeftY × 1.0
+- **MoveRight/Left**: Gamepad_LeftX × 1.0
+- **LookUp/Down**: Gamepad_RightY × 1.0
+- **LookLeft/Right**: Gamepad_RightX × 1.0
